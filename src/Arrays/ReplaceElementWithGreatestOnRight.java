@@ -1,5 +1,4 @@
 package Arrays;
-
 /*
  * <metadata>
  * <name>Replace Elements with Greatest Element on Right Side</name>
@@ -9,17 +8,18 @@ package Arrays;
  * <date>2024-05-06</date>
  * <level>Easy</level>
  * <remarks>Try Again</remarks>
- * <notes>Same approach as that in to find the leaders in an array, Start iterating  from last of the array<br/></notes>
+ * <notes>Same approach as that in to find the leaders in an array <br/> Start iterating  from last of the array<br/></notes>
  * <companies>Facebook</companies>
  * </metadata>
  * */
 public class ReplaceElementWithGreatestOnRight {
 
     public static void main(String[] args) {
-
+        int[] nums = {17,18,5,4,6,1};
+        System.out.println(replaceElements(nums));
     }
 
-    public int[] replaceElements(int[] arr) {
+    public static int[] replaceElements(int[] arr) {
         int max = -1;
         if(arr.length == 1){
             arr[0] = -1;
