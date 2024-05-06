@@ -5,15 +5,15 @@ import java.util.Set;
 
 /*
  * <metadata>
- *   Name:- Intersection of Two Arrays,
- *   Description:- <img src="http://lordmaximus.duckdns.org:9000/codebase/IntersectionBwArrays.png">,
- *   Status:- Completed,
- *   URL:- https://leetcode.com/problems/intersection-of-two-arrays/description/,
- *   Date:- 2024-04-16,
- *   Level:- Easy,
- *   Notes:- 1. Use Sets </br> 2. Use Two Pointers Approach,
- *   Remarks:- Kunal Kushwaha,
- *   Companies:- Apple:Adobe:Amazon:Google:Facebook:JPMorgan:Microsoft:Bloomberg,
+ * <name>Intersection of Two Arrays</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/IntersectionBwArrays.png"></description>
+ * <status>Completed</status>
+ * <url>https://leetcode.com/problems/intersection-of-two-arrays/description/</url>
+ * <date>2024-04-16</date>
+ * <level>Easy</level>
+ * <remarks>Kunal Kushwaha</remarks>
+ * <notes>1. Use Sets </br> 2. Use Two Pointers Approach</notes>
+ * <companies>Apple:Adobe:Amazon:Google:Facebook:JPMorgan:Microsoft:Bloomberg</companies>
  * </metadata>
  * */
 public class IntersectionOfArray {
