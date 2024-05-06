@@ -1,34 +1,40 @@
 {
-  "light": {
-    "primaryColor": "#e67a16",
-    "secondaryColor": "#e65615",
-    "headerColor": "rgb(247, 247, 247)",
-    "backgroundColor": "rgb(255, 255, 255)",
-    "alternativeTableColor": "rgba(221, 221, 221, 0.61)",
-    "textPrimaryColor": "#3c3b3b",
-    "textSecondaryColor": "white",
-    "boxColor": "#1E1E1E",
-    "boxText": "#f5f5f5bf",
-    "boxShadow": "rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px",
-    "paginationDisabledBGColor": "#c4c2c240",
-    "paginationActiveBGColor" : "rgb(198, 192, 192)",
-    "paginationBGColor": "#f0eded",
-    "paginationTXTColor": "black"
+  "name": "CodeBlaze",
+  "icon": "https://static.vecteezy.com/system/resources/previews/012/377/752/original/fire-icon-flame-sign-png.png",
+  "theme": {
+    "light": {
+      "primaryColor": "#0729ac",
+      "secondaryColor": "#304dbd",
+      "headerColor": "rgb(247, 247, 247)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "alternativeTableColor": "rgba(221, 221, 221, 0.61)",
+      "textPrimaryColor": "#3c3b3b",
+      "textSecondaryColor": "white",
+      "boxColor": "#1E1E1E",
+      "boxText": "#f5f5f5bf",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px",
+      "paginationDisabledBGColor": "#c4c2c240",
+      "paginationActiveBGColor" : "rgb(198, 192, 192)",
+      "paginationBGColor": "#f0eded",
+      "paginationTXTColor": "black"
+    },
+
+    "dark": {
+      "primaryColor": "#0729ac",
+      "secondaryColor": "#304dbd",
+      "headerColor": "rgb(17 17 17)",
+      "backgroundColor": "rgb(26, 26, 26)",
+      "alternativeTableColor": "rgba(255, 255, 255, 0.12)",
+      "textPrimaryColor": "#f5f5f5bf",
+      "textSecondaryColor": "white",
+      "boxColor": "#1E1E1E",
+      "boxText": "var(--textPrimaryColor)",
+      "boxShadow": "rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px",
+      "paginationDisabledBGColor": "#39383840",
+      "paginationActiveBGColor" : "rgb(92 92 92)",
+      "paginationBGColor": "#3c3b3b",
+      "paginationTXTColor": "white"
+    }
   },
-  "dark": {
-    "primaryColor": "#ac3d07",
-    "secondaryColor": "#c45e05",
-    "headerColor": "rgb(17 17 17)",
-    "backgroundColor": "rgb(26, 26, 26)",
-    "alternativeTableColor": "rgba(255, 255, 255, 0.12)",
-    "textPrimaryColor": "#f5f5f5bf",
-    "textSecondaryColor": "white",
-    "boxColor": "#1E1E1E",
-    "boxText": "var(--textPrimaryColor)",
-    "boxShadow": "rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px",
-    "paginationDisabledBGColor": "#39383840",
-    "paginationActiveBGColor" : "rgb(92 92 92)",
-    "paginationBGColor": "#3c3b3b",
-    "paginationTXTColor": "white"
-}
+  "addItems": "true"
 }
