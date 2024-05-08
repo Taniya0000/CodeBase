@@ -5,6 +5,19 @@ import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 
+/*
+ * <metadata>
+ * <name>Add to Array-Form of Integer</name>
+ * <description><img src="http://lordmaximus.duckdns.org:9000/codebase/IntersectionBwArrays.png"></description>
+ * <status>Try Again</status>
+ * <url>https://leetcode.com/problems/add-to-array-form-of-integer/description/</url>
+ * <date>2024-05-08</date>
+ * <level>Easy</level>
+ * <remarks>Leard Yard</remarks>
+ * <companies>Facebook</companies>
+ * <notes>Same as Plus One Problem approach from Leetcode </notes>
+ * </metadata>
+ * */
 public class AddToArrayFormOfInteger {
 
     public static void main(String[] args) {
