@@ -10,7 +10,7 @@ import java.util.Arrays;
  * <date>2024-06-03</date>
  * <level>Medium</level>
  * <remarks>Leard Yard</remarks>
- * <companies></companies>
+ * <companies>Amazon:Microsoft:Google:Facebook:Bloomberg:Apple:Spotify:Adobe:Uber:VMware:Yahoo:Goldman Sachs:Oracle:Walmart:Paypal:Intuit:Salesforce:Zoho:JPMorgan:Yandex:Samsung</companies>
  * <notes>1. Intialize hash array and fill it with -1. <br/>
 2. Start iterating through the string and loop until it reaches length of the string. <br/>
 3. If character reached is earlier visible hash value of array of that char should be greater than -1. <br/>
