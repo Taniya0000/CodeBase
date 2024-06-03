@@ -10,7 +10,7 @@ package Matrix;
  * <level>Easy</level>
  * <remarks>Leard Yard</remarks>
  * <companies>Bloomberg:Amazon</companies>
- * <notes>1. Primary diagonal is primarily all the elements with same i and j value. <br/> 2. Secondary diagonal are having elements with i as row and j as column value. <br/> 3. Do the sum of primary and secondary diagonal elements. <br/> 4. If the matrix length is odd, subtract the matrix[n/2][n/2] element else return sum.</notes>
+ * <notes>1. Primary diagonal is primarily all the elements with same i and j value. <br/> 2. Secondary diagonal are having elements with i as row and j as column value. <br/> 3. Do the sum of primary and secondary diagonal elements. <br/> 4. If the matrix length is odd subtract the matrix n by 2 and n by 2 element else return sum.</notes>
  * </metadata>
  * */
 public class MatrixDiagonalSum {
